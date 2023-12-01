@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/00-BasicJava/00-BasicJava.iml" filepath="$PROJECT_DIR$/00-BasicJava/00-BasicJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-ProjectManagerment/03-ProjectManagerment.iml" filepath="$PROJECT_DIR$/03-ProjectManagerment/03-ProjectManagerment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-SpringBootTransaction/04-SpringBootTransaction.iml" filepath="$PROJECT_DIR$/04-SpringBootTransaction/04-SpringBootTransaction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-SpringbootSearchRestAPI/05-SpringbootSearchRestAPI.iml" filepath="$PROJECT_DIR$/05-SpringbootSearchRestAPI/05-SpringbootSearchRestAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-SpringDTOMapStruct/1-Spring.iml" filepath="$PROJECT_DIR$/02-SpringDTOMapStruct/1-Spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-SpringDTOModelMapper/1-Spring (1).iml" filepath="$PROJECT_DIR$/01-SpringDTOModelMapper/1-Spring (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/LearnJava.iml" filepath="$PROJECT_DIR$/.idea/LearnJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/registration-login-system/registration-login-system.iml" filepath="$PROJECT_DIR$/registration-login-system/registration-login-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-SpringbootSecurityLogin/registration-login-system (1).iml" filepath="$PROJECT_DIR$/06-SpringbootSecurityLogin/registration-login-system (1).iml" />
+    </modules>
+  </component>
+</project>
